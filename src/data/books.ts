@@ -570,7 +570,7 @@ export const books: Book[] = [
     downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Interview",
     level: "Intermediate",
     tags: ["Interview", "Coding", "Problem Solving", "Python"]
-
+  
   // Competitive Programming
   {
     id: "competitiveprogramming-1",
@@ -602,7 +602,8 @@ export const categories = [
   "Cyber Security",
   "Computer Networking",
   "Interview Preparation",
-  "Competitive Programming"
+  "Competitive Programming",
+  "Operating Systems"
 ];
 
 export const languages = [
